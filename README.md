@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Tailwind, graphql and nest js**
 
-- 👯 I’m looking to collaborate on **web development and security**
+- 👯 I’m looking to collaborate on **web development and web security**
 
 - 🤝 I’m looking for help with **UUID intergration**
 
