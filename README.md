@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorgesicht&label=Profile%20views&color=0e75b6&style=flat" alt="victorgesicht" /> </p>
 
-- 🔭 I’m currently working on **Api security, CSRF, Graphql-Neo4j**
+- 🔭 I’m currently working on **end-point security,  CSRF, Graphql-Neo4j**
 
 - 🌱 I’m currently learning **React, Tailwind, graphql and nest js**
 
