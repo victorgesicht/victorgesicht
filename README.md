@@ -3,15 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorgesicht&label=Profile%20views&color=0e75b6&style=flat" alt="victorgesicht" /> </p>
 
-- 🔭 I’m currently working on **end-point security, race conditions, Graphql-Neo4j**
-
-- 🌱 I’m currently learning **React, Tailwind, graphql and nest js**
-
-- 👯 I’m looking to collaborate on **web development and web security**
-
-- 🤝 I’m looking for help with **Neo4j**
-
-<h3 align="left">Connect with me:</h3>
+- 🔭 Currently working on **end-point security, race conditions && rate limiting , Graphql-Neo4j**
+  
 <p align="left">
 </p>
 
