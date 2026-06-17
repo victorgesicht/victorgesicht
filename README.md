@@ -1,6 +1,6 @@
 ```python
 def Victorgesicht():
-    """security analyst / blue team / Forensics / Hacker"""
+    """security analyst / Blue team """
     findmehere = {
         "blog": "[https://saragossa.pythonanywhere.com/]"
     }
