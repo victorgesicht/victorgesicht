@@ -14,11 +14,4 @@ def get_skills(self) -> Dict[str, List[str]]:
 
 ```
 
-<iframe 
-  src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6215836" 
-  width="300" 
-  height="90" 
-  frameborder="0" 
-  scrolling="no" 
-  style="border: none; overflow: hidden; background: transparent;">
-</iframe>
+[![TryHackMe Badge](https://tryhackme.com/badge/6215836)](https://tryhackme.com/p/Victorgesicht)
