@@ -1,5 +1,4 @@
 ```python
-from typing import Dict, List
 
 def Victorgesicht():
     """Security Analyst / Blue Team"""
