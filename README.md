@@ -11,4 +11,5 @@ def get_skills(self) -> Dict[str, List[str]]:
             "low_level": ["Assembly (x86/x64)", "C++" ],
             "operations": ["DFIR", "SOC Triage", "Malware Analysis", "SIEM/EDR"]
         }
-Victorgesicht()
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6215836" width="320" height="85" scrolling="no"></iframe>
+
