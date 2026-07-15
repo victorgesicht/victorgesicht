@@ -9,7 +9,8 @@ def Victorgesicht():
 
 def get_skills() -> Dict[str, List[str]]:
     return {
-        "low_level": ["Assembly (x86/x64)", "C++"],
-        "operations": ["DFIR", "SOC Triage", "Malware Analysis", "SIEM/EDR"]
+        "Languages":["PHP", "Python", "C"]
+        "Frameworks":["Laravel", "Symfony", "Django", "React"]
+        "Operations": ["DFIR", "Code Review", "Training', "SOC-Red/Blue", "SIEM/EDR"]
     }
 
