@@ -3,7 +3,7 @@
 def Victorgesicht():
     """Security Analyst | Purple Teaming🟣"""
     return {
-        "blog": "[https://saragossa.pythonanywhere.com/](https://saragossa.pythonanywhere.com/)",
+        "blog": "[https://saragossa.pythonanywhere.com/]",
         "focus": "DFIR | SOC | DjangoDevSec"
     }
 
