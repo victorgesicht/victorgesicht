@@ -11,6 +11,6 @@ def get_skills() -> Dict[str, List[str]]:
     return {
         "Languages":["PHP", "Python", "C"]
         "Frameworks":["Laravel", "Symfony", "Django", "React"]
-        "Operations": ["DFIR", "Code Review", "Training', "SOC-Red/Blue", "SIEM/EDR"]
+        "Operations": ["DFIR", "Code Review", "Training", "SOC-Red/Blue", "SIEM/EDR"]
     }
 
