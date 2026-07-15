@@ -1,7 +1,7 @@
 ```python
 
 def Victorgesicht():
-    """Security Analyst / Blue Team"""
+    """Security Analyst | Purple Teaming🟣"""
     return {
         "blog": "[https://saragossa.pythonanywhere.com/](https://saragossa.pythonanywhere.com/)",
         "focus": "DFIR | SOC | DjangoDevSec"
