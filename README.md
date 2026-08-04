@@ -10,7 +10,7 @@ def Victorgesicht():
 def get_skills() -> Dict[str, List[str]]:
     return {
         "Languages":["PHP", "Python", "C"]
-        "Frameworks":["Laravel", "Symfony", "Django", "React"]
+        "Frameworks":["Laravel", "Django", "React"]
         "Operations": ["DFIR", "Code Review", "Training", "SOC-Red/Blue", "SIEM/EDR"]
     }
 
