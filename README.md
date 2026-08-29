@@ -10,12 +10,6 @@ def Victorgesicht():
 
 
 
-
-
-
-
-
-
 def stack():
     return {
         "Languages":["PHP", "Python", "C#"]
