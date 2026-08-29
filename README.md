@@ -12,7 +12,7 @@ def Victorgesicht():
 
 def stack():
     return {
-        "Languages":["PHP", "Python", "C#"]
+        "Languages":["PHP", " JS", "Python", "C#"]
         "Frameworks":["Laravel", ".NET Core ", "Django", "React"]
         "Operations": ["DFIR", "QA", "Training", "SOC-Red/Blue"]
     }
