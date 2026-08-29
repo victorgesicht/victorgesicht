@@ -7,10 +7,19 @@ def Victorgesicht():
         "focus": "DFIR | SOC | DjangoDevSec"
     }
 
-def get_skills() -> Dict[str, List[str]]:
+
+
+
+
+
+
+
+
+
+def stack():
     return {
         "Languages":["PHP", "Python", "C#"]
-        "Frameworks":["Laravel", ".NET", "Django", "React"]
-        "Operations": ["DFIR", "Code Review", "Training", "SOC-Red/Blue", "SIEM/EDR"]
+        "Frameworks":["Laravel", ".NET Core ", "Django", "React"]
+        "Operations": ["DFIR", "QA", "Training", "SOC-Red/Blue"]
     }
 
