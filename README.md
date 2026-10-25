@@ -1,6 +1,5 @@
 
 
-// Security Engineer/Analyst & Full-Stack, DFIR, Red Team Analyst based in Nairobi, Kenya.
-
+Full-Stack Web Developer & Security Specialist (Mobile Security | DFIR | Red Team) based in Nairobi, Kenya
 
 
